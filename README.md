@@ -8,9 +8,9 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deployed project
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+Feel free to check out the result of the challenge right here 👇
 
-- [Netlify](https://miki-loopstudios-landing-page.netlify.app)
+- [Live Project](https://miki-loopstudios-landing-page.netlify.app)
 
 ### Built with
 
@@ -33,6 +33,6 @@ Your users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-[](./screenshot.png?raw=true)
+
 
 **Had fun building!** 🚀
